@@ -5,3 +5,9 @@ body {
 	height: 400px;
 	
 }
+
+@media (max-width: 780px) {
+	#mapid {
+		height: 600px;
+	}
+}
